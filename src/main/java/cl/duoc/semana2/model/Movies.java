@@ -56,4 +56,30 @@ public class Movies {
         return sinopsis;
     }
 
+    public void setId(Long id) {
+        this.id = id;
+    }
+
+    public void setTitulo(String titulo) {
+        this.titulo = titulo;
+    }
+
+    public void setAño(int año) {
+        this.año = año;
+    }
+
+    public void setDirector(String director) {
+        this.director = director;
+    }
+
+    public void setGenero(String genero) {
+        this.genero = genero;
+    }
+
+    public void setSinopsis(String sinopsis) {
+        this.sinopsis = sinopsis;
+    }
+
+    
+
 }
