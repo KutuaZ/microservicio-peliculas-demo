@@ -36,3 +36,6 @@ build/
 # Java crash logs
 hs_err_pid*.log
 replay_pid*.log
+
+# Configuración local con credenciales
+src/main/resources/application.properties
